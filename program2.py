@@ -10,4 +10,3 @@ srednia = oblicz_srednia(liczby)
 print("Średnia wynosi:", srednia)
 edycja 1
 edycja 2 :)
-edycja 3
